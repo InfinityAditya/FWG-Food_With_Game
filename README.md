@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/YourGitHubUsername/Python-Pizza-Treasure-Adventure.git
+git clone https://github.com/InfinityAditya/FWG-Food_With_Game.git
 cd Python-Pizza-Treasure-Adventure
 Run the program:
 
